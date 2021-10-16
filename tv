@@ -1385,3 +1385,6 @@ https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_1334/output/manife
 #KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000105&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjMwMDA1NDQ4NDE5In0.eyJzdWIiOiIxMjgyOTM3NzQ1IiwiaXNlIjp0cnVlLCJqdGkiOiI0MGYxZjJkOS01ZDgwLTQwYmMtYTc5ZS1mNTRmMjVkNzMwOTMiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjM0NDM5OTc0LCJuYW1lIjoiTWFkaGF2YW4gUGlsbGFpIiwiaWF0IjoxNjM0MzUzNTc0LCJlbnQiOlt7ImJpZCI6MTAwMDAwMTM2OCwiZXBpZCI6IlN1YnNjcmlwdGlvbl9Nb2JpbGVfU3RyZWFtaW5nIn1dLCJpc3MiOiJUVE4ifQ.DbrjnpaOyhgMUti99ZWV1G5n3fB7LwUK38zvggSRxu8
 https://tataskylinear.pc.cdn.bitgravity.com/delta7/out/i/2727342.mpd
 
+#EXTINF:-1 tvg-id="sunmusichd.in" tvg-name="Sun Music HD" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_Music_HD.png" group-title="Tamil",Sun Music HD
+http://uk1.zecast.com:1935/star-live/smusic/chunklist_w303707639.m3u8
+
